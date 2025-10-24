@@ -4,7 +4,7 @@ import android.os.Bundle // Importa la clase Bundle (se usa para guardar/recuper
 import androidx.activity.ComponentActivity // Importa la clase base para actividades en Compose
 import androidx.activity.compose.setContent // Permite establecer el contenido de la pantalla usando Compose
 import androidx.activity.enableEdgeToEdge // Permite que tu app use toda la pantalla (incluyendo barras del sistema)
-import androidx.compose.foundation.layout.fillMaxSize // Modificador: hace que un componente ocupe todo el tamaño disponible
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding // Modificador: agrega espacio alrededor de un componente
 import androidx.compose.material3.Scaffold // Estructura de diseño que provee un layout básico (con espacios para barra superior, inferior, etc.)
 import androidx.compose.runtime.Composable // Anotación para declarar una función que dibuja UI en Compose

@@ -17,7 +17,7 @@ fun MyBox(modifier: Modifier = Modifier) { // Función que dibuja una caja grand
         modifier = Modifier
             .fillMaxSize() // La caja roja ocupará toda la pantalla
             .background(Color.Red), // Fondo rojo para la caja externa
-        contentAlignment = Alignment.Center // Todo lo que esté dentro estará centrado
+        contentAlignment = Alignment.Center
     ) {
         Box( // Caja interna
             modifier = Modifier
