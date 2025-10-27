@@ -63,7 +63,7 @@ La idea es que la calculadora funcione como una normal, pero con cosas raras, po
 
 ## 🎬 Vídeo de demostración
 
-📹 [Enlace al vídeo (YouTube o Drive)](https://...)  
+📹 https://youtu.be/l8nGrAmuQZg?si=PbG6IQCipYoLMon4  
 *(Aún no subido, pero lo grabaré mostrando que no hay 5, que cambia +2, y el resultado 5→6)*
 
 ---
