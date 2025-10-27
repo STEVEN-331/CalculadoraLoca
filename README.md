@@ -72,6 +72,6 @@ La idea es que la calculadora funcione como una normal, pero con cosas raras, po
 
 **Nombre:** Steven  
 **Curso:** 2º DAM  
-**Módulo:** PMDM  
+
 
 

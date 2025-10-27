@@ -22,7 +22,7 @@ fun CalculadoraLoca(modifier: Modifier = Modifier) {
         "6" to "8", "7" to "9", "8" to "0", "9" to "1"
     )
 
-    // Mapeo de operaciones locas
+    // Configuracion de operaciones locas
     val mapaOperaciones = mapOf(
         "&" to "+",  // suma
         "%" to "-",  // resta
